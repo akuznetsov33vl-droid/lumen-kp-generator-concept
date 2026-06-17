@@ -1,3 +1,6 @@
 .DS_Store
 Thumbs.db
 *.tmp
+
+# Internal handoff — не для публичного репо
+HANDOFF.md
